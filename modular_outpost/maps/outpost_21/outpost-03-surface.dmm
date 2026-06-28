@@ -24683,16 +24683,13 @@
 /obj/structure/window/reinforced{
 	dir = 8
 	},
-/obj/machinery/door/blast/shutters{
-	density = 0;
-	dir = 2;
-	icon_state = "shutter0";
-	id = "op2shutter";
-	name = "Surgery Privacy Shutters";
-	opacity = 0
-	},
 /obj/structure/cable/green{
 	icon_state = "0-4"
+	},
+/obj/machinery/door/blast/shutters{
+	dir = 2;
+	id = "op2shutter";
+	name = "Surgery Privacy Shutters"
 	},
 /turf/simulated/floor/plating,
 /area/medical/surgery2)
@@ -26266,16 +26263,13 @@
 /obj/structure/window/reinforced{
 	dir = 8
 	},
-/obj/machinery/door/blast/shutters{
-	density = 0;
-	dir = 2;
-	icon_state = "shutter0";
-	id = "op1shutter";
-	name = "Surgery Privacy Shutters";
-	opacity = 0
-	},
 /obj/structure/cable/green{
 	icon_state = "0-4"
+	},
+/obj/machinery/door/blast/shutters{
+	dir = 2;
+	id = "op1shutter";
+	name = "Surgery Privacy Shutters"
 	},
 /turf/simulated/floor/plating,
 /area/medical/surgery)
@@ -26958,16 +26952,13 @@
 /obj/structure/window/reinforced{
 	dir = 4
 	},
-/obj/machinery/door/blast/shutters{
-	density = 0;
-	dir = 2;
-	icon_state = "shutter0";
-	id = "op2shutter";
-	name = "Surgery Privacy Shutters";
-	opacity = 0
-	},
 /obj/structure/cable/green{
 	icon_state = "0-8"
+	},
+/obj/machinery/door/blast/shutters{
+	dir = 2;
+	id = "op2shutter";
+	name = "Surgery Privacy Shutters"
 	},
 /turf/simulated/floor/plating,
 /area/medical/surgery2)
@@ -40610,16 +40601,13 @@
 /obj/structure/window/reinforced{
 	dir = 4
 	},
-/obj/machinery/door/blast/shutters{
-	density = 0;
-	dir = 2;
-	icon_state = "shutter0";
-	id = "op1shutter";
-	name = "Surgery Privacy Shutters";
-	opacity = 0
-	},
 /obj/structure/cable/green{
 	icon_state = "0-8"
+	},
+/obj/machinery/door/blast/shutters{
+	dir = 2;
+	id = "op1shutter";
+	name = "Surgery Privacy Shutters"
 	},
 /turf/simulated/floor/plating,
 /area/medical/surgery)
@@ -53795,14 +53783,6 @@
 	},
 /obj/structure/window/reinforced,
 /obj/machinery/door/firedoor/glass,
-/obj/machinery/door/blast/shutters{
-	density = 0;
-	dir = 2;
-	icon_state = "shutter0";
-	id = "op2shutter";
-	name = "Surgery Privacy Shutters";
-	opacity = 0
-	},
 /obj/structure/cable/green{
 	icon_state = "0-4"
 	},
@@ -53810,6 +53790,11 @@
 	icon_state = "0-8"
 	},
 /obj/structure/cable/green,
+/obj/machinery/door/blast/shutters{
+	dir = 2;
+	id = "op2shutter";
+	name = "Surgery Privacy Shutters"
+	},
 /turf/simulated/floor/plating,
 /area/medical/surgery2)
 "lxB" = (
@@ -85020,14 +85005,6 @@
 	},
 /obj/structure/window/reinforced,
 /obj/machinery/door/firedoor/glass,
-/obj/machinery/door/blast/shutters{
-	density = 0;
-	dir = 2;
-	icon_state = "shutter0";
-	id = "op1shutter";
-	name = "Surgery Privacy Shutters";
-	opacity = 0
-	},
 /obj/structure/cable/green{
 	icon_state = "0-4"
 	},
@@ -85035,6 +85012,11 @@
 	icon_state = "0-8"
 	},
 /obj/structure/cable/green,
+/obj/machinery/door/blast/shutters{
+	dir = 2;
+	id = "op1shutter";
+	name = "Surgery Privacy Shutters"
+	},
 /turf/simulated/floor/plating,
 /area/medical/surgery)
 "vAJ" = (
