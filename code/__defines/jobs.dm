@@ -14,7 +14,7 @@
 	#define JOB_ALT_STAFF_MANAGER "Staff Manager"
 	#define JOB_ALT_FACILITY_STEWARD "Facility Steward"
 	#define JOB_ALT_FIRST_MATE "First Mate"
-	#define JOB_ALT_PERFORMANCE_MANAGEMENT_SUPERVISOR "Performance Management Supervisor"
+	#define JOB_ALT_EXECUTIVE_OFFICER "Executive Officer" // Outpost 21 edit - Executive officer alt title
 
 //#define JOB_COMMAND_SECRETARY "Command Secretary" // Outpost 21 edit - Command Secretary folded into HoP
 	// Command Secretary alt titles
