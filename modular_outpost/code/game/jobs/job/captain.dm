@@ -2,7 +2,6 @@
 	. = ..()
 	alt_titles |= list(	JOB_ALT_EXECUTIVE_OFFICER = /datum/alt_title/executive_officer,
 						JOB_ALT_COMMAND_LIAISON = /datum/alt_title/command_liaison,
-						JOB_ALT_BRIDGE_SECRETARY = /datum/alt_title/bridge_secretary,
 						JOB_ALT_COMMAND_SECRETARY = /datum/alt_title/command_secretary)
 
 
@@ -33,6 +32,7 @@
 	alt_titles = list(
 		JOB_ALT_CO_PETTY_OFFICER = /datum/alt_title/co_petty_officer,
 		JOB_ALT_CO_PETTY_CADET = /datum/alt_title/co_cadet,
+		JOB_ALT_BRIDGE_SECRETARY = /datum/alt_title/bridge_secretary,
 		JOB_ALT_CO_WARRANT_OFFICER = /datum/alt_title/co_warrant_officer,
 		JOB_ALT_CO_ASSIST_MED_OFFICER = /datum/alt_title/co_med_officer,
 		JOB_ALT_CO_ASSIST_SEC_OFFICER = /datum/alt_title/co_sec_officer,
