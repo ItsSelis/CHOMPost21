@@ -8183,7 +8183,6 @@
 /area/rnd/workshop)
 "arY" = (
 /obj/structure/bed/chair/office/dark,
-/obj/effect/landmark/start/electrophysicist,
 /turf/simulated/floor/tiled/milspec,
 /area/rnd/workshop)
 "arZ" = (
@@ -8332,7 +8331,7 @@
 /obj/structure/bed/chair/office/dark{
 	dir = 8
 	},
-/obj/effect/landmark/start/electrophysicist,
+/obj/effect/landmark/start/roboticist,
 /turf/simulated/floor/tiled/milspec,
 /area/rnd/workshop)
 "asq" = (
@@ -8568,7 +8567,6 @@
 /obj/structure/bed/chair/office/dark{
 	dir = 8
 	},
-/obj/effect/landmark/start/electrophysicist,
 /turf/simulated/floor/tiled/milspec,
 /area/rnd/workshop)
 "asO" = (
@@ -8792,10 +8790,6 @@
 /obj/item/geiger/wall/east,
 /turf/simulated/floor/tiled/milspec,
 /area/rnd/workshop)
-"ate" = (
-/obj/effect/landmark/start/electrophysicist,
-/turf/simulated/floor/tiled/milspec,
-/area/rnd/supermatter)
 "atf" = (
 /obj/structure/extinguisher_cabinet{
 	pixel_x = -5;
@@ -9226,7 +9220,7 @@
 /turf/simulated/floor/tiled,
 /area/hallway/secondary/engineering_hallway)
 "atH" = (
-/obj/effect/landmark/start/electrophysicist,
+/obj/effect/landmark/start/roboticist,
 /turf/simulated/floor/tiled,
 /area/hallway/secondary/engineering_hallway)
 "atI" = (
@@ -9286,7 +9280,6 @@
 /obj/effect/floor_decal/corner/purple{
 	dir = 8
 	},
-/obj/effect/landmark/start/electrophysicist,
 /obj/machinery/firealarm{
 	dir = 1;
 	pixel_y = -26
@@ -10498,6 +10491,10 @@
 /obj/item/toy/plushie/expie,
 /turf/simulated/floor/carpet/turfpack/muriki,
 /area/specialty/expie_clubhouse)
+"awe" = (
+/obj/effect/landmark/start/roboticist,
+/turf/simulated/floor/tiled/milspec,
+/area/rnd/supermatter)
 "awf" = (
 /obj/structure/catwalk,
 /obj/effect/floor_decal/flesh{
@@ -78979,7 +78976,7 @@ aui
 atQ
 dPP
 ato
-ate
+aqJ
 api
 asG
 asv
@@ -79627,7 +79624,7 @@ aun
 atT
 tfG
 atr
-aqJ
+awe
 apk
 hKz
 qfN

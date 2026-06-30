@@ -20,7 +20,7 @@
 	name = "Robotics R&D Console"
 	desc = "Used to remotely work with the research and development lab. Locked by default."
 	locked = TRUE
-	req_one_access = list(ACCESS_RESEARCH, ACCESS_ROBOTICS, ACCESS_ELECTROPHYS)
+	req_one_access = list(ACCESS_RESEARCH, ACCESS_ROBOTICS)
 	circuit = /obj/item/circuitboard/rdconsole/robotics_locked
 	filter_department = CHANNEL_ENGINEERING
 	is_remote = TRUE
