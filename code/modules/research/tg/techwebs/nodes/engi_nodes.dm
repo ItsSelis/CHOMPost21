@@ -217,6 +217,7 @@
 		"fluor_light_bulb",
 		"fluor_light_tube",
 		//CHOMPEdit end
+		"airlock_braces", // OP21 Add
 	)
 
 /datum/techweb_node/emerge_power
