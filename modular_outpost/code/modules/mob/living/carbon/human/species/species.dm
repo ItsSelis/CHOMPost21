@@ -73,7 +73,7 @@
 		if(player == H)
 			continue
 		if(player.species && (player.species.name == SPECIES_SHADEKIN || player.species.name == SPECIES_SHADEKIN_CREW))
-			to_chat(player, span_alien("You feel a powerful sensation of dread as the emotional presence of another like you is ripped from this reality..."))
+			to_chat(player, span_large(span_shadekinempathy("You feel a powerful sensation of dread as the emotional presence of another like you is ripped from this reality...")))
 	. = ..()
 
 /datum/species/skrell/New()
