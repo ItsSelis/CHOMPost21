@@ -32276,6 +32276,9 @@
 	},
 /obj/structure/table/reinforced,
 /obj/item/hoist_kit,
+/obj/item/chainsaw/alt{
+	pixel_y = -10
+	},
 /turf/simulated/floor/tiled/milspec,
 /area/engineering/storage)
 "eHf" = (
