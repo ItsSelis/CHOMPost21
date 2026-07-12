@@ -5823,6 +5823,7 @@
 #include "modular_outpost\code\game\mecha\emp_rebalance.dm"
 #include "modular_outpost\code\game\mecha\equipment.dm"
 #include "modular_outpost\code\game\mecha\submarine.dm"
+#include "modular_outpost\code\game\mecha\equipment\tools\extinguisher.dm"
 #include "modular_outpost\code\game\mecha\equipment\tools\firesaw.dm"
 #include "modular_outpost\code\game\objects\micro_structures.dm"
 #include "modular_outpost\code\game\objects\effects\dark_growth.dm"
