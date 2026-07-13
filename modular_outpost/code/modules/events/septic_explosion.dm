@@ -8,7 +8,8 @@
 	var/obj/effect/landmark/teleplumb_exit/exit = locate(/obj/effect/landmark/teleplumb_exit)
 	if(!exit)
 		return
-	explosion(get_turf(exit),10,12,16,20)
+	if(severity == EVENT_LEVEL_MAJOR)
+		explosion(get_turf(exit),10,12,16,20)
 	// toilet-splosion
 	for(var/obj/structure/toilet/T in world)
 		if(!(T.z in using_map.station_levels))
